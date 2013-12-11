@@ -13,6 +13,13 @@
 		<url>scm:git:git@github.com:mehdislimani/networkmanager.git</url>
 		<developerConnection>scm:git:git@github.com:mehdislimani/networkmanager.git</developerConnection>
 	</scm>
+	
+	<distributionManagement>
+  	<repository>
+  		<id>maven-repository</id>
+  		<url>${github.maven.repository}</url>
+  	</repository>
+  </distributionManagement>
 
     <developers>
                 <developer>
