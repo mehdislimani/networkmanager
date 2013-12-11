@@ -41,7 +41,7 @@
 <distributionManagement>
   	<repository>
   		<id>maven-repository</id>
-  		<url>${github.maven.repository}</url>
+  		<url>https://github.com/mehdislimani/networkmanager/tree/master/target</url>
   	</repository>
   </distributionManagement>
   
