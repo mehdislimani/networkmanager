@@ -4,7 +4,7 @@
 	
 	<groupId>com.ineatconseil.networkmanager</groupId>
     <artifactId>networkmanager</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>NetworkManager</name>
     <description>Librairie d'optimisation des appels REST ANDROID</description>
     
